@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\quan_ly_sach\bin\Debug\net7.0\quan_ly_sach.exe
+C:\Users\Administrator\Downloads\quan_ly_sach\bin\Debug\net7.0\quan_ly_sach.deps.json
+C:\Users\Administrator\Downloads\quan_ly_sach\bin\Debug\net7.0\quan_ly_sach.runtimeconfig.json
+C:\Users\Administrator\Downloads\quan_ly_sach\bin\Debug\net7.0\quan_ly_sach.dll
+C:\Users\Administrator\Downloads\quan_ly_sach\bin\Debug\net7.0\quan_ly_sach.pdb
+C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.dll
+C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\refint\quan_ly_sach.dll
+C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.pdb
+C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\ref\quan_ly_sach.dll
