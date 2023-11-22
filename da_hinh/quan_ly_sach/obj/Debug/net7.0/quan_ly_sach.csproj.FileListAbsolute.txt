@@ -12,3 +12,17 @@ C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\refint\quan_ly_sa
 C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.pdb
 C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.genruntimeconfig.cache
 C:\Users\Administrator\Downloads\quan_ly_sach\obj\Debug\net7.0\ref\quan_ly_sach.dll
+C:\OPP-C-\da_hinh\quan_ly_sach\bin\Debug\net7.0\quan_ly_sach.exe
+C:\OPP-C-\da_hinh\quan_ly_sach\bin\Debug\net7.0\quan_ly_sach.deps.json
+C:\OPP-C-\da_hinh\quan_ly_sach\bin\Debug\net7.0\quan_ly_sach.runtimeconfig.json
+C:\OPP-C-\da_hinh\quan_ly_sach\bin\Debug\net7.0\quan_ly_sach.dll
+C:\OPP-C-\da_hinh\quan_ly_sach\bin\Debug\net7.0\quan_ly_sach.pdb
+C:\OPP-C-\da_hinh\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.GeneratedMSBuildEditorConfig.editorconfig
+C:\OPP-C-\da_hinh\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.AssemblyInfoInputs.cache
+C:\OPP-C-\da_hinh\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.AssemblyInfo.cs
+C:\OPP-C-\da_hinh\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.csproj.CoreCompileInputs.cache
+C:\OPP-C-\da_hinh\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.dll
+C:\OPP-C-\da_hinh\quan_ly_sach\obj\Debug\net7.0\refint\quan_ly_sach.dll
+C:\OPP-C-\da_hinh\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.pdb
+C:\OPP-C-\da_hinh\quan_ly_sach\obj\Debug\net7.0\quan_ly_sach.genruntimeconfig.cache
+C:\OPP-C-\da_hinh\quan_ly_sach\obj\Debug\net7.0\ref\quan_ly_sach.dll

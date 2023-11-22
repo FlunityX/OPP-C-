@@ -20,8 +20,8 @@ namespace quan_ly_sach
             tacgia = "";
             linhvucnghiencuu ="";
         }
-        public mauluanvan(int maso, string ten, int namthuchien , string detai,string tacgia,string linhvucnghiencuu , double giamua)
-            : base(maso, ten, giamua)
+        public mauluanvan(int maso, string ten, int namthuchien , string detai,string tacgia,string linhvucnghiencuu )
+            : base(maso, ten, 0)
         {
             this.namthuchien = namthuchien;
             this.detai = detai;
@@ -30,15 +30,21 @@ namespace quan_ly_sach
         }
         public override void nhap()
         {
+            Console.WriteLine("vi mau luan van ko can mua nen gia mua = 0 , nhap gia mua = 0 !");
             base.nhap();
-            Console.WriteLine("nhap nam thuc hien ");
-            namthuchien = int.Parse(Console.ReadLine());
-            Console.WriteLine("nhap ten de tai:");
-            detai = Console.ReadLine();
-            Console.WriteLine("nhap ten tac gia:");
-            tacgia = Console.ReadLine();
-            Console.WriteLine("nhap linh vuc nghien cuu :");
-            linhvucnghiencuu = Console.ReadLine();
+            
+            if (giamua == 0)
+            {
+
+                Console.WriteLine("nhap nam thuc hien ");
+                namthuchien = int.Parse(Console.ReadLine());
+                Console.WriteLine("nhap ten de tai:");
+                detai = Console.ReadLine();
+                Console.WriteLine("nhap ten tac gia:");
+                tacgia = Console.ReadLine();
+                Console.WriteLine("nhap linh vuc nghien cuu :");
+                linhvucnghiencuu = Console.ReadLine();
+            }
         }
         public override void inthongtin()
         {
