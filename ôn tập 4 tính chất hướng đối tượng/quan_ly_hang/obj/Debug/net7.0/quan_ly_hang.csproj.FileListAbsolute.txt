@@ -1,0 +1,14 @@
+C:\Users\Administrator\Downloads\quan_ly_hang\obj\Debug\net7.0\quan_ly_hang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\quan_ly_hang\obj\Debug\net7.0\quan_ly_hang.AssemblyInfoInputs.cache
+C:\Users\Administrator\Downloads\quan_ly_hang\obj\Debug\net7.0\quan_ly_hang.AssemblyInfo.cs
+C:\Users\Administrator\Downloads\quan_ly_hang\obj\Debug\net7.0\quan_ly_hang.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\quan_ly_hang\bin\Debug\net7.0\quan_ly_hang.exe
+C:\Users\Administrator\Downloads\quan_ly_hang\bin\Debug\net7.0\quan_ly_hang.deps.json
+C:\Users\Administrator\Downloads\quan_ly_hang\bin\Debug\net7.0\quan_ly_hang.runtimeconfig.json
+C:\Users\Administrator\Downloads\quan_ly_hang\bin\Debug\net7.0\quan_ly_hang.dll
+C:\Users\Administrator\Downloads\quan_ly_hang\bin\Debug\net7.0\quan_ly_hang.pdb
+C:\Users\Administrator\Downloads\quan_ly_hang\obj\Debug\net7.0\quan_ly_hang.dll
+C:\Users\Administrator\Downloads\quan_ly_hang\obj\Debug\net7.0\refint\quan_ly_hang.dll
+C:\Users\Administrator\Downloads\quan_ly_hang\obj\Debug\net7.0\quan_ly_hang.pdb
+C:\Users\Administrator\Downloads\quan_ly_hang\obj\Debug\net7.0\quan_ly_hang.genruntimeconfig.cache
+C:\Users\Administrator\Downloads\quan_ly_hang\obj\Debug\net7.0\ref\quan_ly_hang.dll
