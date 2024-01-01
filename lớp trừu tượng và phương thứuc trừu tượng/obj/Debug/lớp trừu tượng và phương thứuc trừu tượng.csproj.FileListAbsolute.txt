@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\lớp trừu tượng và phương thứuc trừu tượng\bin\Debug\lớp trừu tượng và phương thứuc trừu tượng.exe.config
+C:\Users\Administrator\source\repos\lớp trừu tượng và phương thứuc trừu tượng\bin\Debug\lớp trừu tượng và phương thứuc trừu tượng.exe
+C:\Users\Administrator\source\repos\lớp trừu tượng và phương thứuc trừu tượng\bin\Debug\lớp trừu tượng và phương thứuc trừu tượng.pdb
+C:\Users\Administrator\source\repos\lớp trừu tượng và phương thứuc trừu tượng\obj\Debug\lớp trừu tượng và phương thứuc trừu tượng.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\lớp trừu tượng và phương thứuc trừu tượng\obj\Debug\lớp trừu tượng và phương thứuc trừu tượng.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\lớp trừu tượng và phương thứuc trừu tượng\obj\Debug\lớp trừu tượng và phương thứuc trừu tượng.exe
+C:\Users\Administrator\source\repos\lớp trừu tượng và phương thứuc trừu tượng\obj\Debug\lớp trừu tượng và phương thứuc trừu tượng.pdb
