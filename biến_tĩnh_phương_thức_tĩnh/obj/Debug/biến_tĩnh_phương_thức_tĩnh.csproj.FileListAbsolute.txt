@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\biến_tĩnh_phương_thức_tĩnh\bin\Debug\biến_tĩnh_phương_thức_tĩnh.exe.config
+C:\Users\Administrator\source\repos\biến_tĩnh_phương_thức_tĩnh\bin\Debug\biến_tĩnh_phương_thức_tĩnh.exe
+C:\Users\Administrator\source\repos\biến_tĩnh_phương_thức_tĩnh\bin\Debug\biến_tĩnh_phương_thức_tĩnh.pdb
+C:\Users\Administrator\source\repos\biến_tĩnh_phương_thức_tĩnh\obj\Debug\biến_tĩnh_phương_thức_tĩnh.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\biến_tĩnh_phương_thức_tĩnh\obj\Debug\biến_tĩnh_phương_thức_tĩnh.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\biến_tĩnh_phương_thức_tĩnh\obj\Debug\biến_tĩnh_phương_thức_tĩnh.exe
+C:\Users\Administrator\source\repos\biến_tĩnh_phương_thức_tĩnh\obj\Debug\biến_tĩnh_phương_thức_tĩnh.pdb
