@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Dependency Inversion (DIP)\bin\Debug\Dependency Inversion (DIP).exe.config
+C:\Users\Administrator\source\repos\Dependency Inversion (DIP)\bin\Debug\Dependency Inversion (DIP).exe
+C:\Users\Administrator\source\repos\Dependency Inversion (DIP)\bin\Debug\Dependency Inversion (DIP).pdb
+C:\Users\Administrator\source\repos\Dependency Inversion (DIP)\obj\Debug\Dependency Inversion (DIP).csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Dependency Inversion (DIP)\obj\Debug\Dependency Inversion (DIP).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Dependency Inversion (DIP)\obj\Debug\Dependency Inversion (DIP).exe
+C:\Users\Administrator\source\repos\Dependency Inversion (DIP)\obj\Debug\Dependency Inversion (DIP).pdb
