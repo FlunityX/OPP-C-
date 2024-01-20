@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\bài tập opp c#\bin\Debug\bài tập opp c#.exe.config
+C:\Users\Administrator\source\repos\bài tập opp c#\bin\Debug\bài tập opp c#.exe
+C:\Users\Administrator\source\repos\bài tập opp c#\bin\Debug\bài tập opp c#.pdb
+C:\Users\Administrator\source\repos\bài tập opp c#\obj\Debug\bài tập opp c#.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\bài tập opp c#\obj\Debug\bài tập opp c#.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\bài tập opp c#\obj\Debug\bài tập opp c#.exe
+C:\Users\Administrator\source\repos\bài tập opp c#\obj\Debug\bài tập opp c#.pdb
