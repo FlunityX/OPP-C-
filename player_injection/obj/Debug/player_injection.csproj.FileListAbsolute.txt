@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\player_injection\bin\Debug\player_injection.exe.config
+C:\Users\Administrator\source\repos\player_injection\bin\Debug\player_injection.exe
+C:\Users\Administrator\source\repos\player_injection\bin\Debug\player_injection.pdb
+C:\Users\Administrator\source\repos\player_injection\obj\Debug\player_injection.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\player_injection\obj\Debug\player_injection.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\player_injection\obj\Debug\player_injection.exe
+C:\Users\Administrator\source\repos\player_injection\obj\Debug\player_injection.pdb
