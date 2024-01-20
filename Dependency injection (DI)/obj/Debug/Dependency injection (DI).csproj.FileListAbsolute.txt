@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Dependency injection (DI)\bin\Debug\Dependency injection (DI).exe.config
+C:\Users\Administrator\source\repos\Dependency injection (DI)\bin\Debug\Dependency injection (DI).exe
+C:\Users\Administrator\source\repos\Dependency injection (DI)\bin\Debug\Dependency injection (DI).pdb
+C:\Users\Administrator\source\repos\Dependency injection (DI)\obj\Debug\Dependency injection (DI).csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Dependency injection (DI)\obj\Debug\Dependency injection (DI).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Dependency injection (DI)\obj\Debug\Dependency injection (DI).exe
+C:\Users\Administrator\source\repos\Dependency injection (DI)\obj\Debug\Dependency injection (DI).pdb
