@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\rút ngắn constructor\bin\Debug\net8.0\rút ngắn constructor.exe
+C:\Users\Administrator\source\repos\rút ngắn constructor\bin\Debug\net8.0\rút ngắn constructor.deps.json
+C:\Users\Administrator\source\repos\rút ngắn constructor\bin\Debug\net8.0\rút ngắn constructor.runtimeconfig.json
+C:\Users\Administrator\source\repos\rút ngắn constructor\bin\Debug\net8.0\rút ngắn constructor.dll
+C:\Users\Administrator\source\repos\rút ngắn constructor\bin\Debug\net8.0\rút ngắn constructor.pdb
+C:\Users\Administrator\source\repos\rút ngắn constructor\obj\Debug\net8.0\rút ngắn constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\rút ngắn constructor\obj\Debug\net8.0\rút ngắn constructor.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\rút ngắn constructor\obj\Debug\net8.0\rút ngắn constructor.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\rút ngắn constructor\obj\Debug\net8.0\rút ngắn constructor.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\rút ngắn constructor\obj\Debug\net8.0\rút ngắn constructor.dll
+C:\Users\Administrator\source\repos\rút ngắn constructor\obj\Debug\net8.0\refint\rút ngắn constructor.dll
+C:\Users\Administrator\source\repos\rút ngắn constructor\obj\Debug\net8.0\rút ngắn constructor.pdb
+C:\Users\Administrator\source\repos\rút ngắn constructor\obj\Debug\net8.0\rút ngắn constructor.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\rút ngắn constructor\obj\Debug\net8.0\ref\rút ngắn constructor.dll
