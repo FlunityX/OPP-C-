@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\contructor_array\bin\Debug\net8.0\contructor_array.exe
+C:\Users\Administrator\source\repos\contructor_array\bin\Debug\net8.0\contructor_array.deps.json
+C:\Users\Administrator\source\repos\contructor_array\bin\Debug\net8.0\contructor_array.runtimeconfig.json
+C:\Users\Administrator\source\repos\contructor_array\bin\Debug\net8.0\contructor_array.dll
+C:\Users\Administrator\source\repos\contructor_array\bin\Debug\net8.0\contructor_array.pdb
+C:\Users\Administrator\source\repos\contructor_array\obj\Debug\net8.0\contructor_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\contructor_array\obj\Debug\net8.0\contructor_array.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\contructor_array\obj\Debug\net8.0\contructor_array.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\contructor_array\obj\Debug\net8.0\contructor_array.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\contructor_array\obj\Debug\net8.0\contructor_array.dll
+C:\Users\Administrator\source\repos\contructor_array\obj\Debug\net8.0\refint\contructor_array.dll
+C:\Users\Administrator\source\repos\contructor_array\obj\Debug\net8.0\contructor_array.pdb
+C:\Users\Administrator\source\repos\contructor_array\obj\Debug\net8.0\contructor_array.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\contructor_array\obj\Debug\net8.0\ref\contructor_array.dll
